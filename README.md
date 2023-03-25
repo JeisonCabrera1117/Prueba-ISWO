@@ -1,9 +1,10 @@
 # Prueba-ISWO
 Prueba técnica ISWO
 
-Se desea llevar la contabilidad de una empresa, para ello se requiere verificar cuales son los proveedores, los productos y las ventas que se han realizado, para realizar el programa se solicita usar postgrest, ruby, ruby on rails y utilizar como respositorio git
+Se desea crear un software que lleve la contabilidad de una empresa, para ello se requiere tener proveedores, productos y llevar un registro de las ventas realizadas.
+Se solicita usar postgrest, ruby, ruby on rails y utilizar git como respositorio
 
-Se darán puntos extra si se utiliza react como frond-end
+Se darán puntos extra si se utiliza react para frond-end
 
 Se aconseja utilizar las siguiente versiones:
 - ruby 3.1.3
