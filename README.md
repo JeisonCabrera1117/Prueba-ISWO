@@ -1,5 +1,5 @@
 # Prueba-ISWO
-Prueba técnica para ingresar a ISWO
+Prueba técnica ISWO
 
 Se desea llevar la contabilidad de una empresa, para ello se requiere verificar cuales son los proveedores, los productos y las ventas que se han realizado, para realizar el programa se solicita usar postgrest, ruby, ruby on rails y utilizar como respositorio git
 
