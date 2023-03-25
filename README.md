@@ -6,7 +6,7 @@ Se solicita usar postgrest, ruby, ruby on rails y utilizar git como respositorio
 
 Se darán puntos extra si se utiliza react para frond-end
 
-Para la entrega de la prueba se debe crear una nueba rama y hacer push en ella.
+La prueba debe ser entregada el día 31/03/2023, para ello se solicita crear una nueba rama y hacer push en ella.
 
 Se aconseja utilizar las siguiente versiones:
 - ruby 3.1.3
