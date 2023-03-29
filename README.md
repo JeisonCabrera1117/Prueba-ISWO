@@ -1,7 +1,7 @@
 # Prueba-ISWO
 Prueba técnica ISWO
 
-Se desea crear un software que lleve la contabilidad de una empresa, para ello se requiere tener proveedores, productos y llevar un registro de las ventas realizadas.
+Se desea crear una aplicación que lleve la contabilidad de una empresa, para ello se requiere tener proveedores, productos y llevar un registro de las ventas realizadas.
 
 Especificaciones técnicas:
 
