@@ -18,7 +18,7 @@ Evaluación:
     La aplicación debe ser capaz de realizar las operaciones CRUD correctamente, sin errores.
     Se dará puntos extra si se construye el frond-end con react
     
-LA prueba debe ser creada en la Rama que contiene su nombre.
+La prueba debe ser entregada en la Rama de github que contiene su nombre.
 
 Se aconseja utilizar las siguiente versiones:
 - ruby 3.1.3
